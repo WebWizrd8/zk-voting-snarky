@@ -1,6 +1,6 @@
 # zk-voting app
 
-You can follow installation and deployment of zkapp in [here](https://github.com/bilgin-kocak/zk-voting/blob/main/contracts/README.md#mina-zkapp-04-zkapp-browser-ui)
+You can follow installation and deployment of zkapp in [here](https://github.com/WebWizrd8/zk-voting-snarky/blob/main/contracts/README.md)
 
 We have deployed our smart contract on Berkeley Testnet. You can see the transaction [here](https://minascan.io/berkeley/tx/5Jv6J6E6zCubst46cRV9JBPnqpLBXRVSL9f5U3amY7PaxmwEjmFK?type=zk-tx)
 ![image](https://user-images.githubusercontent.com/30844607/282258834-917d6eca-2f5f-4276-8302-7dbc5bcd2600.png)
